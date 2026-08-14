@@ -1,0 +1,87 @@
+$date
+	Fri Aug 14 14:38:16 2026
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1s
+$end
+$scope module circuit $end
+$var wire 1 ! d $end
+$var wire 1 " e $end
+$var wire 1 # y $end
+$var reg 1 $ a $end
+$var reg 1 % b $end
+$var reg 1 & c $end
+$scope module x $end
+$var wire 1 ' a $end
+$var wire 1 ( b $end
+$var wire 1 # y $end
+$upscope $end
+$scope module n $end
+$var wire 1 ) a $end
+$var wire 1 " y $end
+$upscope $end
+$scope module o $end
+$var wire 1 # a $end
+$var wire 1 " b $end
+$var wire 1 ! y $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+0)
+0(
+0'
+0&
+0%
+0$
+0#
+1"
+1!
+$end
+#100
+0!
+1&
+1)
+0"
+#200
+1!
+0&
+0)
+1"
+1%
+1(
+#300
+0!
+1&
+1)
+0"
+#400
+1!
+0&
+0)
+1"
+0%
+0(
+1$
+1'
+#500
+0!
+1&
+1)
+0"
+#600
+1!
+1#
+0&
+0)
+1"
+1%
+1(
+#700
+1&
+1)
+0"
