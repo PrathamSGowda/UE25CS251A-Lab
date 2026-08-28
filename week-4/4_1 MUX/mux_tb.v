@@ -46,7 +46,7 @@ module mux_4_1;
 
     initial
     begin
-        $monitor($time," s0 = %b, s1 = %b, i[3] = %b, i[2] = %b, i[1] = %b, i[0] = %b",s0,s1,i[3],i[2],i[1],i[0]);
+        $monitor($time," s0 = %b, s1 = %b, i[3] = %b, i[2] = %b, i[1] = %b, i[0] = %b, y = %b",s0,s1,i[3],i[2],i[1],i[0],y);
     end
 
     initial
